@@ -1,0 +1,14 @@
+.media {
+  max-width: 45em;
+  min-width: 38em;
+  margin-bottom: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
+  border-radius: 4px;
+  padding: 0.5em;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.media form {
+  margin-right: 1em;
+}

@@ -1,0 +1,11 @@
+.add-food {
+  margin-left: 1em;
+  margin-bottom: 1em;
+}
+
+.food-display {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-evenly;
+}
